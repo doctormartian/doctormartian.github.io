@@ -13,7 +13,7 @@ title                    : "Doctor Martian"
 title_separator          : "-"
 name                     : &name "Doctor Martian"
 description              : &description "DCM Year 1 · Fort Portal College of Health Sciences"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://doctormartian.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "doctormartian/doctormartian.github.io"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "DCM Year 1 student at Fort Portal College Of Health Sciences"
   location         : "Fortportal Uganda"
-  employer         : "Red Brick University"
+  employer         : "Fort Portal College Of Health Sciences"
   uri              : # URL
   email            : "nikemarts7@gmail.com" 
 
