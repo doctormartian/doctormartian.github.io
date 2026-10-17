@@ -1,0 +1,58 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Doctor Martian
+    - name: Institution
+      value: Fort Portal College of Health Sciences
+    - name: Program
+      value: Diploma in Clinical Medicine (DCM) — Year 1
+    - name: Location
+      value: Fort Portal, Uganda
+    - name: Email
+      value: nikemarts7@gmail.com
+    - name: WhatsApp
+      value: "+256 771 671 300"
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Diploma in Clinical Medicine
+      institution: Fort Portal College of Health Sciences, Fort Portal, Uganda
+      year: 2025 – Present
+      description: Year 1 DCM student. Focus on foundational clinical sciences, patient care, and professional soft skills.
+
+- title: Projects & Initiatives
+  type: time_table
+  contents:
+    - title: Martian Project
+      institution: Founder & Lead
+      year: 2024 – Present
+      description: Student-led initiative focused on medical innovation, academic resources, and clinical learning support.
+
+    - title: Stakc
+      institution: Project under Martian Project
+      year: 2024 – Present
+      description: Platform for organizing academic work and building soft skills for health science students.
+
+- title: Soft Skills
+  type: map
+  contents:
+    - name: Leadership
+      value: Founder of student-led projects
+    - name: Communication
+      value: Health education and peer mentoring
+    - name: Teamwork
+      value: Collaboration with fellow DCM students
+    - name: Problem Solving
+      value: Clinical reasoning and innovation
+    - name: Time Management
+      value: Balancing Year 1 academics with projects
+    - name: Empathy & Professionalism
+      value: Core clinical values
+
+- title: Motto
+  type: map
+  contents:
+    - name: ""
+      value: "Lord Bless The Work Of Our Hands — Psalms 90:17"
