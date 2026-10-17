@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Soft Skills"
+    url: /soft-skills/
+  - title: "Resources"
+    url: /resources/
+  - title: "Contact"
+    url: /contact/
